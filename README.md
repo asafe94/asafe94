@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patrickasafe (aka Patrick Asafe), Computer Science bachelor studen, self-taught web dev. 
-- 👀 I’m interested in learning HTML, CSS, JavaScript, TypeScript, React and Next.js.
+- 👀 I’m interested in learning JavaScript, TypeScript, React and Next.js.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on React projects.
 - 📫 How to reach me patrickasafe@gmail.com or @patrickasafe on Telegram.
