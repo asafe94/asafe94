@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrickasafe (aka Patrick Asafe), Computer Science bachelor student, self-taught web dev.
 - :wrench: My current stack: HTML, CSS, JavaScript, React and Next.js.
 - 👀 I’m interested in learning Rust.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and C#.
 - 💞️ I’m looking to collaborate on React projects.
 - 📫 How to reach me patrickasafe@gmail.com or @patrickasafe on Telegram.
 
