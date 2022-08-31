@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrickasafe (aka Patrick Asafe), Computer Science bachelor student, self-taught web dev.
 - :wrench: My current stack: JavaScript, Typescript, React, Next.js, Python and Django.
 - 👀 I’m interested in learning Rust.
-- 🌱 I’m currently learning Django and React tests.
+- 🌱 I’m currently learning React tests.
 - 💞️ I’m looking to collaborate on Python and Typescript projects.
 - 📫 How to reach me patrickasafe@gmail.com or @patrickasafe on Telegram.
 
